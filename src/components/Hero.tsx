@@ -65,7 +65,7 @@ const Hero = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-primary to-purple-600 rounded-full animate-glow" />
               <div className="absolute inset-2 bg-background rounded-full flex items-center justify-center">
                 <img
-                  src="/placeholder.jpg" // Replace with your image path
+                  src="/PHOTO.jpg" // Replace with your image path
                   alt="Akshat Pandey"
                   className="w-full h-full rounded-full object-cover"
                 />
