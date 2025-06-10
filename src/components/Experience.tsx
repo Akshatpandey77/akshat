@@ -76,7 +76,7 @@ const Experience = () => {
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-12">
+        <div className="grid lg:flex gap-12">
           {/* Experience Timeline */}
          {/* <div>
             <h3 className="text-2xl font-bold mb-8 flex items-center gap-3">

@@ -44,14 +44,14 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'akshat.pandey@example.com',
+      value: 'pandeyakshat2504@gmail.com',
       description: 'Drop me a line anytime',
-      action: 'mailto:akshat.pandey@example.com'
+      action: 'mailto:pandeyakshat2504@gmail.com'
     },
     {
       icon: Github,
       title: 'GitHub',
-      value: '@akshatpandey',
+      value: '@Akshatpandey77',
       description: 'Check out my repositories',
       action: 'https://github.com'
     },

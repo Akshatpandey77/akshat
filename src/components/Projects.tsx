@@ -138,7 +138,8 @@ const Projects = () => {
           </p>
         </div>
 
-        {/* Featured Projects Grid */}
+       {/*
+        // Featured Projects Grid
         <div className="mb-16">
           <h3 className="text-2xl font-bold mb-8 text-center">
             ⭐ Highlighted Work
@@ -229,6 +230,7 @@ const Projects = () => {
             ))}
           </div>
         </div>
+        */}
 
         {/* Filter Categories */}
         <div className="flex flex-wrap justify-center gap-4 mb-12">
